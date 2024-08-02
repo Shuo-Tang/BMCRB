@@ -12,6 +12,6 @@ For more details or to cite this work, refer to the following paper:
 	```
 	Tang, S., LaMountain, G., Imbiriba, T. and Closas, P.,
 	2023, June. On parametric misspecified Bayesian Cramér-Rao bound: An application to linear/Gaussian systems. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  
-	```
+	```  
 	[IEEE ICASSP 2023: https://ieeexplore.ieee.org/abstract/document/10095758?casa_token=ZbMFl_2d3mUAAAAA:IvuOpg2txZvd6ksOjyqAsQV8Wwck_QWL3FJnBcViLP-y85w33-8O95cZw-kZeuXLuO9PynJwcs8](https://ieeexplore.ieee.org/abstract/document/10095758?casa_token=ZbMFl_2d3mUAAAAA:IvuOpg2txZvd6ksOjyqAsQV8Wwck_QWL3FJnBcViLP-y85w33-8O95cZw-kZeuXLuO9PynJwcs8)
  
