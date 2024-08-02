@@ -2,7 +2,7 @@
 
 The Misspecified Bayesian Cramér–Rao Bound (MBCRB) is a Bayesian version of the CRB for mismatched models. Model misspecification occurs when the assumed model used to formulate the estimator differs from the true model that generates the data. In such cases, the estimator is no longer an unbiased estimator of the true parameter, but rather an unbiased estimator with respect to the so-called *pseudotrue* parameter. Traditional bounds like the CRB are not effective in lower bounding the error under these conditions. Instead, the estimation error is bounded by the MBCRB.  
 
-In this work, we extend the MCRB to the Bayesian case, allowing for model misspecification in the prior information as well.  
+- In this work, we extend the MCRB to the Bayesian case, allowing for model misspecification in the prior information.  
 
 The figure below illustrates the bounds and experimental RMSEs under model misspecification:  
   
