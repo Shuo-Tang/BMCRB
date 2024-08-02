@@ -8,7 +8,7 @@ The figure below illustrates the bounds and experimental RMSEs under model missp
   
 <img src="figs/RMSEvsMBCRBvsBCRB_N.png" alt="RMSE vs Bounds" width="600"/>  
 
-For more details or to cite this work, refer to the following paper:  
+For more details or to cite this work, please refer to:  
 ```
 Tang, S., LaMountain, G., Imbiriba, T. and Closas, P.,
 2023, June. On parametric misspecified Bayesian Cramér-Rao bound: An application to linear/Gaussian systems. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.  
